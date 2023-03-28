@@ -798,6 +798,15 @@ a {
         display: none !important
     }
 
+    .Small-Icon{
+        width: 32px;
+        height: 32px;
+    }
+
+    .Small-Text {
+        font-size: 20px;
+    }
+
     .w3-mobile {
         display: block;
         width: 100% !important
